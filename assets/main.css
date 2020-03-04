@@ -67,7 +67,8 @@ body {
     position: relative;
 }
 
-.middle {}
+
+
 
 .middle h1 {
     color: #f1f1f1;
@@ -102,7 +103,7 @@ h1,h2,h3 {
     max-width: 100%;
     height: auto;
 }
-
+k
 .row {
     display: flex;
     padding: 8px;
@@ -129,7 +130,6 @@ h1,h2,h3 {
 div#projects h3, #about h3, #contact h3 {
     padding-top: 16px!important;
     padding-bottom: 16px!important;
-    /* border-color: #f1f1f1!important; */
     border-bottom: 1px solid #ccc!important;
     font-size: 24px;
 }
